@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+authors:
+  - given-names: "Kader"
+    family-names: "Bouyakoub"
+    orcid: "https://orcid.org/0000-0002-1184-8061"
+title: "CiSkeleton Language Pack — Czech (Čeština)"
+keywords:
+  - "language"
+  - "translations"
+  - "codeigniter"
+  - "czech"
+  - "czech-republic"
+  - "czech-language"
+  - "csk"
+  - "ianhub"
+  - "ci-skeleton"
+url: "https://www.ianhub.net/"
+repository-code: "https://github.com/ciskeleton/lang-czech"
